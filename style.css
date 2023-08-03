@@ -1,0 +1,32 @@
+.box{
+    height: 300px;
+    width: 300px;
+    border: 3px solid red;
+    margin-left: 30px;
+    
+}
+#p1{
+    background-color: lime;
+    padding: 20px 40px 60px;
+    max-width: 50%;
+}
+.box1{
+    color: red;
+    background-color: black;
+    text-align: center;
+    text-align-last: center;
+     height: 300px;
+    width: 300px;
+    border: 5px solid red;  
+    padding: 20px;
+    margin: 10px;
+    outline: 7px dotted blue;
+    outline-offset: 5px;
+}
+
+#p2{
+    color: brown;
+    background: 5px solid blueviolet;
+    vertical-align: bottom;
+    unicode-bidi: embed;
+}
